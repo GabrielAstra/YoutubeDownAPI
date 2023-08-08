@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "vu+cdHS+NSTQ8uiHa/YIfjz0BcJY0gFQG35eecwozISHM5DfNsFY6blHOnGomyHYWjGzLa8qnAa71BwNmuMtmQ==",
+  "success": true,
+  "projectFilePath": "/home/gabriel/Desktop/GitHubProjects/APIDown/APIDown.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/anglesharp/1.0.4/anglesharp.1.0.4.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/cliwrap/3.6.4/cliwrap.3.6.4.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/youtubeexplode/6.3.1/youtubeexplode.6.3.1.nupkg.sha512",
+    "/home/gabriel/.nuget/packages/youtubeexplode.converter/6.3.1/youtubeexplode.converter.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
