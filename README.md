@@ -9,3 +9,5 @@ computador. Pulando um pouco, se não houver informação nula sobre o vídeo (i
 irá dar uma Exception.
 
 Em breve mais explicações e vídeos em português sobre o uso.
+
+WARNING! THIS PROJECT WORKS ONLY IN LINUX, MY PROJECT THAT START IN WINDOWS IT IS IN OTHER REPOSITORY.
